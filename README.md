@@ -79,12 +79,13 @@ An Amazon API Gateway is a collection of resources and methods. For this section
 }
 ```
 
+* Click on the Send button
 <img src="https://github.com/OscarSLopez09/Serverless-App-Part2-API-GW/blob/main/Images/api15.PNG" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 
-* Click on the Send button
+## We get a successful response
 <img src="https://github.com/OscarSLopez09/Serverless-App-Part2-API-GW/blob/main/Images/api16.PNG" height="90%" width="90%" alt="Disk Sanitization Steps"/>
  
-## We get a successful response
+
 
 
 
