@@ -37,7 +37,12 @@ An Amazon API Gateway is a collection of resources and methods. For this section
 * Scroll down and select the Test tab
 <img src="https://github.com/OscarSLopez09/Serverless-App-Part2-API-GW/blob/main/Images/api07.PNG" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 
-* Scroll down to Request body - {"sentiment":"NEGATIVE"}
+* Scroll down to Request body and type:
+```json
+{
+  "sentiment":"NEGATIVE"
+}
+```
 * Click on Test
 <img src="https://github.com/OscarSLopez09/Serverless-App-Part2-API-GW/blob/main/Images/api08.PNG" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 
@@ -65,13 +70,15 @@ An Amazon API Gateway is a collection of resources and methods. For this section
 * On the Enter URL box, paste the invoke URL 
 <img src="https://github.com/OscarSLopez09/Serverless-App-Part2-API-GW/blob/main/Images/api14.PNG" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 * Click on Body and click on raw
-* Type the JSON test code 
-```JSON
+* Type the JSON test code:
+  
+```json
 {
     "sentiment":"NEGATIVE"
 }
 ```
-<img src="https://github.com/OscarSLopez09/Serverless-App-Part2-API-GW/blob/main/Images/api15.PNG" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+
+<img src="https://github.com/OscarSLopez09/Serverless-App-Part2-API-GW/blob/main/Images/api15.PNG" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 
 * Click on the Send button
 <img src="https://github.com/OscarSLopez09/Serverless-App-Part2-API-GW/blob/main/Images/api16.PNG" height="90%" width="90%" alt="Disk Sanitization Steps"/>
