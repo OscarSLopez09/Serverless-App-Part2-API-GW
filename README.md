@@ -9,7 +9,7 @@ An Amazon API Gateway is a collection of resources and methods. For this section
 * On AWS console search box type API Gateway to access the API service.
 <img src="https://github.com/OscarSLopez09/Serverless-App-Part2-API-GW/blob/main/Images/api00.PNG" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 
-* Select API type -Rest API and click on build
+* Select API type - Rest API and click on build
 <img src="https://github.com/OscarSLopez09/Serverless-App-Part2-API-GW/blob/main/Images/api01.PNG" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 
 * On API details, select New API, API endpoint type - Regional, API name - NewsReaderAPI and click Create API
