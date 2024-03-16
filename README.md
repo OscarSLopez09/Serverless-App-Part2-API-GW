@@ -13,8 +13,9 @@ An Amazon API Gateway is a collection of resources and methods. For this section
 <img src="https://github.com/OscarSLopez09/Serverless-App-Part2-API-GW/blob/main/Images/api01.PNG" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 
 * On API details, select New API
-* API name - NewsReaderAPI and click Create API
+* API name - NewsReaderAPI 
 * API endpoint type - Regional
+* Click Create API
 <img src="https://github.com/OscarSLopez09/Serverless-App-Part2-API-GW/blob/main/Images/api02.PNG" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 
 * Click on Create resource
