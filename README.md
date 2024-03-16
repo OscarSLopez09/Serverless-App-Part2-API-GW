@@ -69,6 +69,7 @@ An Amazon API Gateway is a collection of resources and methods. For this section
 
 * On the Enter URL box, paste the invoke URL 
 <img src="https://github.com/OscarSLopez09/Serverless-App-Part2-API-GW/blob/main/Images/api14.PNG" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+
 * Click on Body and click on raw
 * Type the JSON test code:
   
