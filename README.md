@@ -92,6 +92,10 @@ An Amazon API Gateway is a collection of resources and methods. For this section
 
 ## We get a successful response!
 <img src="https://github.com/OscarSLopez09/Serverless-App-Part2-API-GW/blob/main/Images/api16.PNG" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+
+Link to part 4 of the project:
+
+- [Part 4 Creating CloudWatch event](https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule)
  
 
 
