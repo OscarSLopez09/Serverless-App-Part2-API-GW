@@ -9,8 +9,8 @@ You are in Part3 of the project, links to the other sections:
 - [Part 1 Lambda Serverless App ](https://github.com/OscarSLopez09/Lambda-Serverless-App)
 - [Part 2 Testing the first part ](https://github.com/OscarSLopez09/Serverless-Testing-Part1)
 - [Part 3 Creating the backend lambda](https://github.com/OscarSLopez09/Lambda-Serverless-App-Part2)
-- [Part 4 Creating CloudWatch event](https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule)
-- [Part 5 Implementing security with API keys ](https://github.com/OscarSLopez09/Lambda-Serverless-App-Security)
+- [Part 5 Creating CloudWatch event](https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule)
+- [Part 6 Implementing security with API keys ](https://github.com/OscarSLopez09/Lambda-Serverless-App-Security)
 
 An Amazon API Gateway is a collection of resources and methods. For this section of the project, you create one resource (NewsReaderAPI) and define one method (POST) on it. The method is backed by a Lambda function (NewsReaderBacked). That is, when you call the API through an HTTPS endpoint, Amazon API Gateway invokes the Lambda function.
 
